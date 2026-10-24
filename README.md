@@ -1,2 +1,2 @@
-# myVeryOwnCloudClient
-myVeryOwnCloudClient is a C# windows forms client for the myVeryOwnCloud backend writen in php
+# MyVeryOwnCloudClient
+MyVeryOwnCloudClient is a C# windows forms client for the MyVeryOwnCloud backend writen in php
